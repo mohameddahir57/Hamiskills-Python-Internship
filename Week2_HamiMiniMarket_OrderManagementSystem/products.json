@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Bariis (Rice)",
+    "price": 3.5,
+    "stock": 50
+  },
+  {
+    "id": 2,
+    "name": "Caano (Milk)",
+    "price": 1.2,
+    "stock": 80
+  },
+  {
+    "id": 3,
+    "name": "Sonkor (Sugar)",
+    "price": 2.0,
+    "stock": 40
+  },
+  {
+    "id": 4,
+    "name": "Bur (Flour)",
+    "price": 1.5,
+    "stock": 60
+  },
+  {
+    "id": 5,
+    "name": "Baasto (Pasta)",
+    "price": 1.0,
+    "stock": 70
+  },
+  {
+    "id": 6,
+    "name": "Soo (Tea)",
+    "price": 2.5,
+    "stock": 30
+  }
+]
