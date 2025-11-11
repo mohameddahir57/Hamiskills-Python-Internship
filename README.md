@@ -1,6 +1,11 @@
 # Hami MiniMarket Management Suite
 
-A comprehensive Python project suite developed during my 4-week intensive internship with **HamiSkills**. This collection of applications simulates a full business workflow for a small market, from inventory management and sales processing to data analysis and visualization.
+**Developer:** Mohamed Dahir Osman  
+**Internship Track:** Python Development  
+**Program:** HamiSkills Internship Program  
+**Duration:** 4 Weeks (October 17, 2025 - November 2025)
+
+A comprehensive Python project suite developed during my 4-week intensive internship with **HamiSkills**. This collection of applications simulates a full business workflow for "Hami MiniMarket," from inventory management and sales processing to data analysis and visualization.
 
 I am profoundly grateful to the HamiSkills team for providing me and my fellow interns with this incredible learning opportunity. The structured curriculum and practical projects were instrumental in strengthening my Python programming and software development skills.
 
