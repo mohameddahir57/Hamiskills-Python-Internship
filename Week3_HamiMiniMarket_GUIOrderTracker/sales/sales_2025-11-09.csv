@@ -1,0 +1,3 @@
+timestamp,customer,item_id,item_name,qty,price,line_total
+2025-11-09 20:48:47,Mohamed Dahir Osman,1,Bariis (Rice),23,3.5,80.5
+2025-11-09 20:48:47,Mohamed Dahir Osman,2,Caano (Milk),3,1.2,3.5999999999999996
