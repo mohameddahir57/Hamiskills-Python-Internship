@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Banana",
+    "category": "Fruit",
+    "price": 0.5,
+    "quantity": 100,
+    "added": "2025-10-01T00:00:00Z"
+  },
+  {
+    "name": "Tomato",
+    "category": "Vegetable",
+    "price": 0.8,
+    "quantity": 50,
+    "added": "2025-10-01T00:00:00Z"
+  },
+  {
+    "name": "Canab",
+    "category": "Fruit",
+    "price": 0.8,
+    "quantity": 100,
+    "added": "2025-10-22T15:42:19.237908Z"
+  }
+]
